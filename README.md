@@ -34,4 +34,4 @@ Grab the latest release from the download link above.
 - [ ] Open the application launcher and complete the initial configuration.
 
 ## Legal
-> This project is shared as-is. All product names and logos belong to their respective owners.                    
+> This project is shared as-is. All product names and logos belong to their respective owners.                     
